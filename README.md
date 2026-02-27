@@ -6,17 +6,20 @@
 ![Followers](https://img.shields.io/github/followers/ma9ni?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/ma9ni?affiliations=OWNER&style=social)
 
-**Freelance SRE & DevOps Lead - Cloud, Kubernetes, CI/CD**
+**Freelance SaaS Developer + DevOps/SRE Engineer**
 
-I help companies stabilize production, accelerate delivery, and reduce operational risk.
-I work with teams that need practical DevOps/SRE execution, not just strategy slides.
+I help companies design, build, deploy, and scale SaaS products from idea to production.
+I combine full-stack SaaS development with DevOps/SRE execution to ship faster and run reliably.
 
 - 8+ years in production-critical environments (public sector, energy, finance)
-- Fast diagnosis and recovery for unstable platforms
+- Full product mindset: architecture, backend APIs, frontend UX, and platform operations
 - Automation-first delivery: CI/CD, IaC, observability, and operational runbooks
 
 ### Services I Offer
 
+- SaaS product development (MVP to production)
+- Full-stack web app development (frontend + backend)
+- API design, integrations, and workflow automation
 - DevOps/SRE audits and reliability roadmaps
 - CI/CD design and optimization (GitHub Actions, GitLab CI, Jenkins)
 - Kubernetes/OpenShift setup, hardening, and operations
@@ -25,6 +28,8 @@ I work with teams that need practical DevOps/SRE execution, not just strategy sl
 
 ### What Clients Get
 
+- Faster SaaS delivery from concept to launch
+- Better product quality with scalable architecture
 - More stable releases and fewer production incidents
 - Faster lead time from commit to deployment
 - Clearer operations visibility and lower MTTR
@@ -49,6 +54,8 @@ I work with teams that need practical DevOps/SRE execution, not just strategy sl
 
 ### Core Expertise
 
+- SaaS Architecture and Product Engineering
+- Full-Stack Development (TypeScript, JavaScript, Python, Java)
 - Site Reliability Engineering (SRE)
 - DevOps and Platform Engineering
 - Cloud and Infrastructure as Code (IaC)
@@ -65,6 +72,10 @@ I work with teams that need practical DevOps/SRE execution, not just strategy sl
 
 ### Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -76,6 +87,10 @@ I work with teams that need practical DevOps/SRE execution, not just strategy sl
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### SEO Keywords
+
+`Freelance SaaS Developer`, `Full-Stack Developer`, `DevOps Engineer`, `SRE`, `Cloud Engineer`, `Kubernetes`, `CI/CD`, `Infrastructure as Code`, `Platform Engineering`, `Automation`
 
 ### Find Me Online
 
