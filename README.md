@@ -6,14 +6,29 @@
 ![Followers](https://img.shields.io/github/followers/ma9ni?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/ma9ni?affiliations=OWNER&style=social)
 
-**SRE & DevOps Lead - Cloud, HPC, AIOps**
+**Freelance SRE & DevOps Lead - Cloud, Kubernetes, CI/CD**
 
-I help organizations build reliable, scalable, and automated platforms in critical environments.
-My focus is on Cloud infrastructure, Kubernetes/OpenShift, CI/CD, observability, and Infrastructure as Code.
+I help companies stabilize production, accelerate delivery, and reduce operational risk.
+I work with teams that need practical DevOps/SRE execution, not just strategy slides.
 
-- 8+ years across public sector, energy, and finance environments
-- Strong production mindset: resilience, MTTR reduction, and platform reliability
-- Automation-first approach: CI/CD pipelines, runbooks, and operational excellence
+- 8+ years in production-critical environments (public sector, energy, finance)
+- Fast diagnosis and recovery for unstable platforms
+- Automation-first delivery: CI/CD, IaC, observability, and operational runbooks
+
+### Services I Offer
+
+- DevOps/SRE audits and reliability roadmaps
+- CI/CD design and optimization (GitHub Actions, GitLab CI, Jenkins)
+- Kubernetes/OpenShift setup, hardening, and operations
+- Monitoring, alerting, and incident-response improvements
+- Infrastructure as Code and deployment standardization
+
+### What Clients Get
+
+- More stable releases and fewer production incidents
+- Faster lead time from commit to deployment
+- Clearer operations visibility and lower MTTR
+- Reusable automation that reduces manual work
 
 ### Projects
 
@@ -41,6 +56,13 @@ My focus is on Cloud infrastructure, Kubernetes/OpenShift, CI/CD, observability,
 - CI/CD automation and release engineering
 - Observability and incident-response optimization
 
+### Work Style
+
+- Outcome-driven and delivery-focused
+- Strong communication with product and engineering stakeholders
+- Clean documentation for handover and team autonomy
+- Security, reliability, and maintainability by default
+
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -63,6 +85,9 @@ My focus is on Cloud infrastructure, Kubernetes/OpenShift, CI/CD, observability,
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MakniAhmed)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ma9ni/)
 [![Malt](https://img.shields.io/badge/-Malt-FC5757?style=flat-square&logoColor=white)](https://www.malt.fr/profile/ahmedmakni1)
+
+If you need help on a DevOps/SRE mission, contact me directly on Malt:
+**[malt.fr/profile/ahmedmakni1](https://www.malt.fr/profile/ahmedmakni1)**
 
 ### GitHub Activity
 
